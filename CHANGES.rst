@@ -1,6 +1,16 @@
 Wazimap Version History
 =======================
 
+2.1.2 (19 Feburary 2020)
+-------------------------
+
+* Fix key error in Geometry features Github Issue #159
+
+2.1.1 (03 Feburary 2020)
+-------------------------
+
+* Replace calls to .itervalues with calls to .values()
+
 2.1.0 (09 October 2019)
 ------------------------
 * Upgrade to python 3
